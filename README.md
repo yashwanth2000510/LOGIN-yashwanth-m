@@ -1,1 +1,3 @@
-# LOGIN-yashwanth-m
+# LOGIN-Yashwanth-M
+
+Registration and Login system using Python, file handling
